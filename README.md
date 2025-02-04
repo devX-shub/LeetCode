@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/devX-shub/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0493-reverse-pairs](https://github.com/devX-shub/LeetCode/tree/master/0493-reverse-pairs) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/devX-shub/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Binary Search
 |  |
 | ------- |
