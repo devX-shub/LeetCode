@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/devX-shub/LeetCode/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/devX-shub/LeetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/devX-shub/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0493-reverse-pairs](https://github.com/devX-shub/LeetCode/tree/master/0493-reverse-pairs) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/devX-shub/LeetCode/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/devX-shub/LeetCode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
