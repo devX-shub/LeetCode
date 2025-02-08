@@ -1,24 +1,28 @@
 class Solution {
 public:
-    void fun(vector < int > & nums, int index, vector < int > ds, set < vector < int >> & res) {
-      if (index == nums.size()) {
-        sort(ds.begin(), ds.end());
-        res.insert(ds);
-        return;
-      }
-      ds.push_back(nums[index]);
-      fun(nums, index + 1, ds, res);
-      ds.pop_back();
-      fun(nums, index + 1, ds, res);
+    void generateSubsets(set<vector<int>> &ans,vector<int>& nums,int start,vector<int> temp)
+    {
+        if(start == nums.size())
+            {
+                sort(temp.begin(),temp.end());
+                ans.insert(temp);
+                return;
+            }
+            temp.push_back(nums[start]);
+            generateSubsets(ans,nums,start+1,temp);
+            temp.pop_back();
+            generateSubsets(ans,nums,start+1,temp);
     }
-  vector < vector < int >> subsetsWithDup(vector < int > & nums) {
-    vector < vector < int >> ans;
-    set < vector < int >> res;
-    vector < int > ds;
-    fun(nums, 0, ds, res);
-    for (auto it = res.begin(); it != res.end(); it++) {
-      ans.push_back( * it);
+    vector<vector<int>> subsetsWithDup(vector<int>& nums) {
+        int n = nums.size();
+        set<vector<int>> ans;
+        vector<int> temp;
+        generateSubsets(ans,nums,0,temp);
+        vector<vector<int>> res;
+        for(auto it : ans)
+        {
+            res.push_back(it);
+        }
+        return res;
     }
-    return ans;
-  }
 };
