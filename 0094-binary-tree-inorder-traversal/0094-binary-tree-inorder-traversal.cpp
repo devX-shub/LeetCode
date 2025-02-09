@@ -11,6 +11,8 @@
  */
 class Solution {
 public:
+
+    //recursive
     void inorder(TreeNode* root, vector<int>& ans)
     {
         if(!root)
@@ -20,9 +22,23 @@ public:
         inorder(root->right,ans);
     }
 
+    //iterative
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> ans;
-        inorder(root,ans);
+        stack<TreeNode*> st;
+        TreeNode* curr = root;
+        while(curr || !st.empty())
+        {
+            while(curr != NULL)
+            {
+                st.push(curr);
+                curr = curr->left;
+            }
+            curr = st.top();
+            st.pop();
+            ans.push_back(curr->val);
+            curr = curr->right;
+        }
         return ans;
     }
 };
