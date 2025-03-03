@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/devX-shub/LeetCode/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devX-shub/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/devX-shub/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/devX-shub/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/devX-shub/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devX-shub/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devX-shub/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/devX-shub/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Recursion
 |  |
 | ------- |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/devX-shub/LeetCode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/devX-shub/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
