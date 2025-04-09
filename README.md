@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/devX-shub/LeetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/devX-shub/LeetCode/tree/master/0062-unique-paths) |
+| [2050-count-good-numbers](https://github.com/devX-shub/LeetCode/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/devX-shub/LeetCode/tree/master/0002-add-two-numbers) |
+| [2050-count-good-numbers](https://github.com/devX-shub/LeetCode/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
 | ------- |
