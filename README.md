@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/devX-shub/LeetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/devX-shub/LeetCode/tree/master/0062-unique-paths) |
+| [0268-missing-number](https://github.com/devX-shub/LeetCode/tree/master/0268-missing-number) |
 | [2050-count-good-numbers](https://github.com/devX-shub/LeetCode/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/devX-shub/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devX-shub/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/devX-shub/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/devX-shub/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/devX-shub/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/devX-shub/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/devX-shub/LeetCode/tree/master/0493-reverse-pairs) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devX-shub/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/devX-shub/LeetCode/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/devX-shub/LeetCode/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/devX-shub/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devX-shub/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/devX-shub/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/devX-shub/LeetCode/tree/master/0268-missing-number) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devX-shub/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Union Find
 |  |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/devX-shub/LeetCode/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/devX-shub/LeetCode/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -142,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/devX-shub/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/devX-shub/LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
