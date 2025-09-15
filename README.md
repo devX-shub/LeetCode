@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/devX-shub/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devX-shub/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/devX-shub/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/devX-shub/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devX-shub/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/devX-shub/LeetCode/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/devX-shub/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/devX-shub/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/devX-shub/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
